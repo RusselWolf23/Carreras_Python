@@ -1,4 +1,4 @@
-# Carreras para Proyecto final de DAM
+# **Carreras para Proyecto final de DAM**
 
 ## Desarrollador y Tester en Python
 
@@ -7,3 +7,4 @@
 1. Lo primero que he aprendido es a utilizar los tipos básicos de datos y las estructuras de control de Python
 [Ejercicios relacionados](https://github.com/RusselWolf23/Carreras_Python/tree/master/Desarrollador%20y%20tester%20en%20Python/Ejercicios)
 
+2. A continuación he aprendido los bucles con repetición 
