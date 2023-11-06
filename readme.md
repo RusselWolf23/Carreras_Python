@@ -14,6 +14,11 @@
    [Ejercicios relacionados](https://github.com/RusselWolf23/Carreras_Python/tree/master/Desarrollador%20y%20tester%20en%20Python/Ejercicios%20Bucles)
 4. Trabajar con cadenas en python
    [Ejercicios relacionados](https://github.com/RusselWolf23/Carreras_Python/tree/master/Desarrollador%20y%20tester%20en%20Python/Ejercicios%20de%20Cadenas)
+5. Trabajar con listas en python [Ejercicios relacionados](https://github.com/RusselWolf23/Carreras_Python/tree/master/Desarrollador%20y%20tester%20en%20Python/Ejercicios%20Listas)
+6. trabajar con diccionarios en python [Ejercicios relacionados](https://github.com/RusselWolf23/Carreras_Python/tree/master/Desarrollador%20y%20tester%20en%20Python/Ejercicios%20Diccionarios)
+7. Aprendí a utilizar el control de excepciones en python
+8. Trabajar con funciones en python [Ejercicios relacionados](https://github.com/RusselWolf23/Carreras_Python/tree/master/Desarrollador%20y%20tester%20en%20Python/Ejercicio%20Funciones)
+9. Aprendí todo sobre programación orientada a objetos en python [Ejercicios relacionados](https://github.com/RusselWolf23/Carreras_Python/tree/master/Desarrollador%20y%20tester%20en%20Python/Ejercicios%20Orientacion%20a%20Objetos)
    
  
    
