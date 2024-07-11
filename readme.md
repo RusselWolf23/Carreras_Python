@@ -23,3 +23,7 @@
  ### Consumo de servicios Restful con Python requests
    
 Con este taller aprendí utilizar servicios Restful para hacer peticiones web utilizando python [Ejercicios relacionados](https://github.com/RusselWolf23/Carreras_Python/tree/master/Desarrollador%20y%20tester%20en%20Python/Consumo%20de%20servicios%20Restful%20con%20Python%20requests)
+
+### Concurrencia en Python
+Con este taller aprendí concurrencia utilizando hilos en una aplicación [Ejercicios relacionados](https://github.com/RusselWolf23/Carreras_Python/tree/master/Desarrollador%20y%20tester%20en%20Python/Concurrencia%20en%20Python)
+
