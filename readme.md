@@ -32,8 +32,9 @@ Con este taller aprendí concurrencia utilizando hilos en una aplicación [Ejerc
 ### Curso de tratamiento de datos con Pandas
 
 En este curso aprendí a utilizar varios recursos de la librería Pandas para manejar datos. Está dividido en dos partes: 
+
 1. Estructura de datos, donde conocer a fondo las series y los dataframes, así como varias herramientas de lectura, escritura, indexado y trabajo con fechas.
-   [Ejercicios relacionados con la estructura de datos]()
+   [Ejercicios relacionados con la estructura de datos](https://github.com/RusselWolf23/Carreras_Python/tree/master/Python%20para%20Data%20Science/Tratamiento%20de%20datos%20con%20Pandas/Ejercicios)
 2. Operacones con dataframes, aprendiendo operaciones, datos missing, tablas pivotantes, agrupaciones y visualizaciones.
    [Ejercicios relacionados con operaciones con Dataframes]()
 
