@@ -27,3 +27,15 @@ Con este taller aprendí utilizar servicios Restful para hacer peticiones web ut
 ### Concurrencia en Python
 Con este taller aprendí concurrencia utilizando hilos en una aplicación [Ejercicios relacionados](https://github.com/RusselWolf23/Carreras_Python/tree/master/Desarrollador%20y%20tester%20en%20Python/Concurrencia%20en%20Python)
 
+## Python para Data Science
+
+### Curso de tratamiento de datos con Pandas
+
+En este curso aprendí a utilizar varios recursos de la librería Pandas para manejar datos. Está dividido en dos partes: 
+1. Estructura de datos, donde conocer a fondo las series y los dataframes, así como varias herramientas de lectura, escritura, indexado y trabajo con fechas.
+   [Ejercicios relacionados con la estructura de datos]()
+2. Operacones con dataframes, aprendiendo operaciones, datos missing, tablas pivotantes, agrupaciones y visualizaciones.
+   [Ejercicios relacionados con operaciones con Dataframes]()
+
+
+
