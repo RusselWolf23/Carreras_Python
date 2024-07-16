@@ -38,5 +38,7 @@ En este curso aprendí a utilizar varios recursos de la librería Pandas para ma
 2. Operacones con dataframes, aprendiendo operaciones, datos missing, tablas pivotantes, agrupaciones y visualizaciones.
    [Ejercicios relacionados con operaciones con Dataframes](https://github.com/RusselWolf23/Carreras_Python/tree/master/Python%20para%20Data%20Science/Tratamiento%20de%20datos%20con%20Pandas/Ejercicios)
 
+### Curso de Numpy con Python
 
+Este curso profundiza en la librería de Numpy 
 
