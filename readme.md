@@ -40,5 +40,13 @@ En este curso aprendí a utilizar varios recursos de la librería Pandas para ma
 
 ### Curso de Numpy con Python
 
-Este curso profundiza en la librería de Numpy 
+Este curso profundiza en la librería de Numpy y en gran parte de sus funcionalidades.
+1. Conceptos básicos, como manejo de arrays, indexado y recorrido de arrays, máscaras, fechas y constantes.
+ [Ejercicios relacionados]()
+2. Operaciones con Numpy, donde se profundica con manipulación de arrays, operaciones con cadenas y álgebra literal.
+ [Ejercicios relacionados]()
+3. Funciones lógicas, funciones matemáticas y funciones estadísticas.
+ [Ejercicios relacionados]()
+
+
 
