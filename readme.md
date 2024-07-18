@@ -36,7 +36,17 @@ En este curso aprendí a utilizar varios recursos de la librería Pandas para ma
 1. Estructura de datos, donde conocer a fondo las series y los dataframes, así como varias herramientas de lectura, escritura, indexado y trabajo con fechas.
    [Ejercicios relacionados con la estructura de datos](https://github.com/RusselWolf23/Carreras_Python/tree/master/Python%20para%20Data%20Science/Tratamiento%20de%20datos%20con%20Pandas/Ejercicios)
 2. Operacones con dataframes, aprendiendo operaciones, datos missing, tablas pivotantes, agrupaciones y visualizaciones.
-   [Ejercicios relacionados con operaciones con Dataframes]()
+   [Ejercicios relacionados con operaciones con Dataframes](https://github.com/RusselWolf23/Carreras_Python/tree/master/Python%20para%20Data%20Science/Tratamiento%20de%20datos%20con%20Pandas/Ejercicios)
+
+### Curso de Numpy con Python
+
+Este curso profundiza en la librería de Numpy y en gran parte de sus funcionalidades.
+1. Conceptos básicos, como manejo de arrays, indexado y recorrido de arrays, máscaras, fechas y constantes.
+ [Ejercicios relacionados]()
+2. Operaciones con Numpy, donde se profundica con manipulación de arrays, operaciones con cadenas y álgebra literal.
+ [Ejercicios relacionados]()
+3. Funciones lógicas, funciones matemáticas y funciones estadísticas.
+ [Ejercicios relacionados]()
 
 
 
