@@ -42,11 +42,9 @@ En este curso aprendí a utilizar varios recursos de la librería Pandas para ma
 
 Este curso profundiza en la librería de Numpy y en gran parte de sus funcionalidades.
 1. Conceptos básicos, como manejo de arrays, indexado y recorrido de arrays, máscaras, fechas y constantes.
- [Ejercicios relacionados]()
 2. Operaciones con Numpy, donde se profundica con manipulación de arrays, operaciones con cadenas y álgebra literal.
- [Ejercicios relacionados]()
 3. Funciones lógicas, funciones matemáticas y funciones estadísticas.
- [Ejercicios relacionados]()
+ [Ejercicios relacionados](https://github.com/RusselWolf23/Carreras_Python/tree/master/Python%20para%20Data%20Science/Numpy%20con%20Python/Ejercicios)
 
 
 
