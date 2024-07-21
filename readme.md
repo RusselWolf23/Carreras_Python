@@ -46,5 +46,11 @@ Este curso profundiza en la librería de Numpy y en gran parte de sus funcionali
 3. Funciones lógicas, funciones matemáticas y funciones estadísticas.
  [Ejercicios relacionados](https://github.com/RusselWolf23/Carreras_Python/tree/master/Python%20para%20Data%20Science/Numpy%20con%20Python/Ejercicios)
 
+### Curso de visualización de datos con Python
+este curso se basa en aprender a crear distintos gráficos y hologramas a partir de conjuntos de datos como dataframes, utilizando las librerias Matplotlib y Seaborn.
+1. Con la librería Matplotlib aprendemos a crear gráficos de puntos, de barras y tipo tarta con porcentajes entre otros.
+   - Aprendemos a editar las leyendas, subplots y a cargar imágenes png y configurarlas desde una url.
+2. Con Seaborn aprendemos a manejar gráfico relacionales, gráficos categóricos, Gráficos múltiples y de regresión, así como distribuciones y configuración de distintos estilos y colores.
+[Ejercicios relacionados](https://github.com/RusselWolf23/Carreras_Python/tree/master/Python%20para%20Data%20Science/Visualizaci%C3%B3n%20de%20datos%20con%20Python/Ejercicios)
 
 
